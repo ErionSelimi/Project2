@@ -1,3 +1,11 @@
+# TO RUN IT:
+npm install
+npm start
+View: http://localhost:4200/
+
+*************************************************************************************
+
+
 # Test
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
