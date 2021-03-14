@@ -1,0 +1,38 @@
+@media only screen and (min-width: 768px){
+    /* For mobile phones: */
+    .widthSizeTable {
+        width: 60%;
+        margin: auto;
+    }
+}
+
+.team .topRow {
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    vertical-align: middle;
+    background-color: blue;
+}
+
+.team td {
+border: 1px solid rgb(0, 0, 0);
+padding: 8px;
+}
+
+.team th {
+border: 1px solid rgb(0, 0, 0);
+padding-top: 12px;
+padding-bottom: 12px;
+text-align: center;
+background-color: lightblue;
+color: black;
+}
+
+.team .narrowCol {
+    width: 25%;
+    vertical-align: middle;
+}
+
+.team .vertAlign {
+    vertical-align: middle;
+}
