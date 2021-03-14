@@ -1,7 +1,7 @@
 # TO RUN IT:
-npm install
-npm start
-View: http://localhost:4200/
+* npm install
+* npm start
+* View: http://localhost:4200/
 
 *************************************************************************************
 
